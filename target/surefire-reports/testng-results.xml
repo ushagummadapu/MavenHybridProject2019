@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.linkedin.testcases.SearchDDTTest" duration-ms="134692" started-at="2019-05-30T01:58:06Z" finished-at="2019-05-30T02:00:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="134692" started-at="2019-05-30T01:58:06Z" finished-at="2019-05-30T02:00:21Z">
+      <class name="com.qa.linkedin.testcases.SearchDDTTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@34b7bfc0]" name="beforeClass" is-config="true" duration-ms="67878" started-at="2019-05-30T01:58:06Z" finished-at="2019-05-30T01:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@34b7bfc0]" name="searchTest" duration-ms="5694" started-at="2019-05-30T01:59:15Z" data-provider="dp" finished-at="2019-05-30T01:59:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sarita]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@34b7bfc0]" name="searchTest" duration-ms="19709" started-at="2019-05-30T01:59:20Z" data-provider="dp" finished-at="2019-05-30T01:59:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[usha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@34b7bfc0]" name="searchTest" duration-ms="14271" started-at="2019-05-30T01:59:40Z" data-provider="dp" finished-at="2019-05-30T01:59:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[malleswari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@34b7bfc0]" name="searchTest" duration-ms="10668" started-at="2019-05-30T01:59:54Z" data-provider="dp" finished-at="2019-05-30T02:00:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashwini]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@34b7bfc0]" name="searchTest" duration-ms="6017" started-at="2019-05-30T02:00:05Z" data-provider="dp" finished-at="2019-05-30T02:00:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[komali]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@34b7bfc0]" name="afterClass" is-config="true" duration-ms="9464" started-at="2019-05-30T02:00:11Z" finished-at="2019-05-30T02:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qa.linkedin.testcases.SearchDDTTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.linkedin.testcases.SearchDDTTest -->
+</testng-results>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51819" started-at="2019-05-26T04:42:05Z" finished-at="2019-05-26T04:42:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51819" started-at="2019-05-26T04:42:05Z" finished-at="2019-05-26T04:42:57Z">
+      <class name="com.qa.linkedin.testcases.SearchDDTTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@3abbfa04]" name="beforeClass" is-config="true" duration-ms="16506" started-at="2019-05-26T04:42:05Z" finished-at="2019-05-26T04:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@3abbfa04]" name="searchTest" duration-ms="5407" started-at="2019-05-26T04:42:22Z" data-provider="dp" finished-at="2019-05-26T04:42:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sarita]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@3abbfa04]" name="searchTest" duration-ms="5222" started-at="2019-05-26T04:42:27Z" data-provider="dp" finished-at="2019-05-26T04:42:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[usha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@3abbfa04]" name="searchTest" duration-ms="5573" started-at="2019-05-26T04:42:33Z" data-provider="dp" finished-at="2019-05-26T04:42:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[malleswari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@3abbfa04]" name="searchTest" duration-ms="6342" started-at="2019-05-26T04:42:38Z" data-provider="dp" finished-at="2019-05-26T04:42:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashwini]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@3abbfa04]" name="searchTest" duration-ms="8217" started-at="2019-05-26T04:42:44Z" data-provider="dp" finished-at="2019-05-26T04:42:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[komali]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@3abbfa04]" name="afterClass" is-config="true" duration-ms="3841" started-at="2019-05-26T04:42:53Z" finished-at="2019-05-26T04:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qa.linkedin.testcases.SearchDDTTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
